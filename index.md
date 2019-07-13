@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 一个神奇的页面
 
 You can use the [editor on GitHub](https://github.com/lierko/something/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
